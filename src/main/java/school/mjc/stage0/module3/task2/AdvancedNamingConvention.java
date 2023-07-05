@@ -5,13 +5,13 @@ public class AdvancedNamingConvention {
 
     private int age;
 
-//    public void callToFriend() {
-//        //some code
-//    }
-//
-//    public void callByNumber(int number) {
-//        //some code
-//    }
+    private void callToFriend() {
+        //some code
+    }
+
+    private void callByNumber(int number) {
+        //some code
+    }
     private int number;
 
     public static void main(String[] args){
